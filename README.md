@@ -27,3 +27,5 @@ python predict_daily.py
 
 # 5. Launch the Web App (Dashboard)
 streamlit run dashboard.py
+cd /home/workdir/artifacts
+zip -r millionaire_pickz_wnba_model.zip millionaire_pickz_wnba_model
