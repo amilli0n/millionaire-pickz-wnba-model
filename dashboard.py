@@ -194,4 +194,4 @@ Made with ❤️ by **Millionaire Pickz**
 
 WNBA Betting Model using XGBoost
 """)
-400202a923b01f75d8e19fc8df0d13c1
+export ODDS_API_KEY=400202a923b01f75d8e19fc8df0d13c1
