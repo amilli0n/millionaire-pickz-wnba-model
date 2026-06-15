@@ -8,3 +8,4 @@ cd /home/workdir/artifacts/millionaire_pickz_wnba_model
 pip install -r requirements.txt
 python train_xgboost.py
 python train_pytorch.py
+python predict_daily.py
