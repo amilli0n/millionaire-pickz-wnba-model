@@ -9,3 +9,4 @@ pip install -r requirements.txt
 python train_xgboost.py
 python train_pytorch.py
 python predict_daily.py
+streamlit run dashboard.py
