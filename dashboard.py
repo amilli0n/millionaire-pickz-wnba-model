@@ -119,3 +119,5 @@ streamlit run dashboard.py
 
 st.sidebar.markdown("---")
 st.sidebar.info("Made with ❤️ by Millionaire Pickz")
+cd /home/workdir/artifacts
+zip -r millionaire_pickz_wnba_model.zip millionaire_pickz_wnba_model
